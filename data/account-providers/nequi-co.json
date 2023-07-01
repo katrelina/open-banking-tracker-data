@@ -8,9 +8,9 @@
   ],
   "name": "Nequi",
   "description": "Nequi is a Colombia-based Fintech that was first created by Bancolombia, one of the biggest bank in the country, to provide a fully digital banking experience to customers.",
-  "legalName": null,
+  "legalName": HSBC,
   "ipoStatus": "private",
-  "stockSymbol": null,
+  "stockSymbol": "HSBC Holdings plc"
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1611533830/icons/nequi-co.jpg",
